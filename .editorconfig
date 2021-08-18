@@ -1,0 +1,10 @@
+root = true
+
+[*.py]
+charset = utf-8
+indent_style = space
+trim_trailing_whitespace = true
+
+[*.yml]
+indent_size = 2
+
