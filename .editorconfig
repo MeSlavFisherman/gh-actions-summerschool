@@ -8,6 +8,3 @@ trim_trailing_whitespace = true
 [*.yml]
 indent_size = 2
 
-[*.json]
-indent_size = 2
-insert_final_newline = ignore
